@@ -9,9 +9,9 @@
 <a href='https://github.com/S-U-P-E-R-I-O-R/Hilux-wa-Bot/fork' target="_blank"><img alt='Fork' src='https://img.shields.io/badge/FORKK-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
-2. scan qr
+2. pair code
     <br>
-<a href='https://viper-x0.onrender.com/' target="_blank"><img alt='SCAN QR ' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://replit.com/@AnandhuA2/EXbot-PairCode?s=app' target="_blank"><img alt='pair code' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
   
 #### HEROKU DEPLOY
 
