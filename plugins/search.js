@@ -2,7 +2,11 @@ const {
     cmd,
     isPublic
 } = require("../lib/plugins.js");
-
+const acr = new acrcloud({
+  host: 'identify-ap-southeast-1.acrcloud.com',
+  access_key: 'd61b3dcb8c5a66576cd088db0a6ff8f0',
+  access_secret: '6B6Rfv75VOX72SQhEZWaDDxn5IsxKWQvpNSggoA7'
+});
 cmd(
     {
         name: "find",
