@@ -23,6 +23,7 @@
     "@types/node": "^18.0.6",
     "@viper-x/fancytext": "^1.0.2",
     "@whiskeysockets/baileys": "^6.5.0",
+    "acrcloud": "^1.4.0",
     "browser-id3-writer": "^4.4.0",
     "canvacord": "^5.4.10",
     "dotenv": "^16.3.1",
